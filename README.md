@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning *Natural Language Processing (NLP)*
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/suman-kumar-mishra05/](https://www.linkedin.com/in/suman-kumar-mishra05/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/uzma-usmani-ai-ml](www.linkedin.com/in/uzma-usmani-ai-ml)
 
-- 📝 I regularly write articles on [https://hashnode.com/@uzmausmani0143](https://hashnode.com/@uzmausmani0143)
+- 📝 I regularly write articles on [https://hashnode.com/@uzmausmani](https://hashnode.com/@uzmausmani)
 
-- 💬 Ask me about *AWS, Docker, Linux etc*
+- 💬 Ask me about *Python, ML, AWS, Docker, Linux etc*
 
 - 📫 How to reach me *uzmausmani0143@gmail.com*
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive?q=after:2023-09-25%20parent:0AKX-b_Nl31roUk9PVA](https://drive.google.com/drive/u/0/my-drive?q=after:2023-09-25%20parent:0AKX-b_Nl31roUk9PVA)
 
 - ⚡ Fun fact *I think I am funny*
 
